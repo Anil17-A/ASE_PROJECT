@@ -1,12 +1,5 @@
 # MediLink – Smart Blood & Medicine Emergency Network
 
-[![Course](https://img.shields.io/badge/Course-Adaptive%20Software%20Engineering%20(24CI3201)-blue.svg)](https://github.com/)
-[![Academic Year](https://img.shields.io/badge/Academic%20Year-2026--2027-green.svg)](https://github.com/)
-[![Java](https://img.shields.io/badge/Java-JDK%2017%2B-orange.svg)](https://www.oracle.com/java/)
-[![Server](https://img.shields.io/badge/Server-Apache%20Tomcat%209%2B-yellow.svg)](https://tomcat.apache.org/)
-[![Database](https://img.shields.io/badge/Database-MySQL%208.0-blue.svg)](https://www.mysql.com/)
-
----
 
 ## 📌 Project Overview
 
