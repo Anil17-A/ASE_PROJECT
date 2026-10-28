@@ -1,6 +1,5 @@
 # MediLink – Smart Blood & Medicine Emergency Network
 
-
 ## 📌 Project Overview
 
 **MediLink** is a centralized, web-based emergency healthcare discovery platform designed to eliminate life-threatening delays during the **"golden hour"** of emergency medical care. When critical surgical emergencies, road trauma, or acute medical conditions occur, patients and families often struggle to locate compatible blood units or rare medicines due to data silos and reliance on manual phone inquiries.
